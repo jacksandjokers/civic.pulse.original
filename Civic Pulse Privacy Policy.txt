@@ -1,0 +1,28 @@
+**Privacy Policy for CivicPulse**
+
+Last updated: July 13, 2026
+
+CivicPulse ("we", "us", or "our") operates the CivicPulse mobile application.
+
+**Information We Collect**
+- We do not collect any personally identifiable information (PII) at this time.
+- Anonymous usage data may be collected to improve the app experience.
+- Votes you cast are stored anonymously and are not linked to your identity.
+
+**How We Use Information**
+- To provide and maintain the app.
+- To analyze how the app is used so we can improve it.
+
+**Data Sharing**
+We do not sell, trade, or rent your information to third parties.
+
+**Security**
+We take reasonable measures to protect the limited data we store.
+
+**Changes to This Policy**
+We may update this Privacy Policy from time to time. We will notify users of any changes by updating the date at the top of this policy.
+
+**Contact Us**
+If you have any questions about this Privacy Policy, please contact us at: ImperialGrey@Duck.com
+
+By using CivicPulse, you agree to this Privacy Policy.
